@@ -17,7 +17,7 @@ const Left = () => {
 
         <div id="vector">
           <img id="vec" src={vector} alt="" /> &nbsp;{" "}
-          <span id="as"><a href="https://aesthisia.com/">aesthisia.com</a> </span>
+          <span id="as"><a  href="https://aesthisia.com/">aesthisia.com</a> </span>
         </div>
         <svg
           id="linked"

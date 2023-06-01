@@ -113,7 +113,7 @@
   
     /* background: #BFBFBF; */
   }
-  #as {
+  a {
     margin-left: -8px;
   
     font-family: "Poppins";
@@ -121,7 +121,7 @@
     font-weight: 400;
     font-size: 15px;
     line-height: 18px;
-  
+  text-decoration: none;
     color: #bfbfbf;
   }
   #vec {
